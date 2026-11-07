@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Arzanish logo">
+  <defs>
+    <linearGradient id="green" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#07965f"/>
+      <stop offset="1" stop-color="#55f0a0"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="96" fill="#00130c"/>
+  <circle cx="256" cy="256" r="204" fill="none" stroke="url(#green)" stroke-width="9"/>
+  <path d="M137 344 258 119l54 91-34 19-20-34-63 116-58 33Z" fill="#fff"/>
+  <path d="M235 342h70l40 62h-49l-18-28h-77l34-34Z" fill="#fff"/>
+  <path d="M117 365c83-85 174-155 315-163-94 17-174 78-240 163h-75Z" fill="url(#green)"/>
+</svg>
